@@ -21,7 +21,7 @@ Alternatively, you can clone the repository and install the package locally:
 ```bash
 git clone https://github.com/SweatyCrayfish/quantum_vqe.git
 cd quantum_vqe
-pip install .
+pip install quantum-vqe
 ```
 # Usage
 
@@ -49,7 +49,7 @@ To contribute to the Quantum VQE package, you can clone the repository and set u
 ```bash
 git clone https://github.com/SweatyCrayfish/quantum_vqe.git
 cd quantum_vqe
-pip install -e .
+pip install -e quantum-vqe
 ```
 # Testing
 
